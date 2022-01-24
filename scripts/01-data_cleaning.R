@@ -13,6 +13,8 @@
 
 #### Workspace setup ####
 # Use R Projects, not setwd().
+
+print("hello world. Patrick Here)
 library(haven)
 library(tidyverse)
 # Read in the raw data. 
